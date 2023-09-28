@@ -1,0 +1,4 @@
+name: LunaZ
+version: '${project.version}'
+main: fr.eris.lunaz.LunaZ
+api-version: 1.20
